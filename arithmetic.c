@@ -2,12 +2,8 @@
 
 int main()
 {
-    int a,b,add,multiply,substraction,division;
+    int a=6,b=2,add,multiply,substraction,division;
     int mod;
-    printf("enter your first num-", a);
-    scanf("%d",&a);
-    printf("\nenter your second number-",b);
-    scanf("%d",&b);
     add=a+b;
     multiply=a*b;
     division=a/b;
